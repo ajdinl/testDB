@@ -4,73 +4,97 @@
       "id": 1,
       "title": "Photo 1",
       "description": "Description 1",
-      "imageUrl": "/images/cover_1.jpg"
+      "thumbUrl": "/images/thumb_01c97dffd2f8d723.jpg",
+      "coverUrl": "/images/cover_01c97dffd2f8d723.jpg",
+      "lowresUrl": "/images/lowres_01c97dffd2f8d723.jpg"
     },
     {
       "id": 2,
       "title": "Photo 2",
       "description": "Description 2",
-      "imageUrl": "/images/cover_2.jpg"
+      "thumbUrl": "/images/thumb_01c97dffd2f8d723.jpg",
+      "coverUrl": "/images/cover_01c97dffd2f8d723.jpg",
+      "lowresUrl": "/images/lowres_01c97dffd2f8d723.jpg"
     },
     {
       "id": 3,
       "title": "Photo 3",
       "description": "Description 3",
-      "imageUrl": "/images/cover_3.jpg"
+      "thumbUrl": "/images/thumb_01c97dffd2f8d723.jpg",
+      "coverUrl": "/images/cover_01c97dffd2f8d723.jpg",
+      "lowresUrl": "/images/lowres_01c97dffd2f8d723.jpg"
     },
     {
       "id": 4,
       "title": "Photo 4",
       "description": "Description 4",
-      "imageUrl": "/images/cover_4.jpg"
+      "thumbUrl": "/images/thumb_01c97dffd2f8d723.jpg",
+      "coverUrl": "/images/cover_01c97dffd2f8d723.jpg",
+      "lowresUrl": "/images/lowres_01c97dffd2f8d723.jpg"
     },
     {
       "id": 5,
       "title": "Photo 5",
       "description": "Description 5",
-      "imageUrl": "/images/cover_5.jpg"
+      "thumbUrl": "/images/thumb_01c97dffd2f8d723.jpg",
+      "coverUrl": "/images/cover_01c97dffd2f8d723.jpg",
+      "lowresUrl": "/images/lowres_01c97dffd2f8d723.jpg"
     },
     {
       "id": 6,
       "title": "Photo 6",
       "description": "Description 6",
-      "imageUrl": "/images/cover_6.jpg"
+      "thumbUrl": "/images/thumb_01c97dffd2f8d723.jpg",
+      "coverUrl": "/images/cover_01c97dffd2f8d723.jpg",
+      "lowresUrl": "/images/lowres_01c97dffd2f8d723.jpg"
     },
     {
       "id": 7,
       "title": "Photo 7",
       "description": "Description 7",
-      "imageUrl": "/images/cover_7.jpg"
+      "thumbUrl": "/images/thumb_01c97dffd2f8d723.jpg",
+      "coverUrl": "/images/cover_01c97dffd2f8d723.jpg",
+      "lowresUrl": "/images/lowres_01c97dffd2f8d723.jpg"
     },
     {
       "id": 8,
       "title": "Photo 8",
       "description": "Description 8",
-      "imageUrl": "/images/cover_8.jpg"
+      "thumbUrl": "/images/thumb_01c97dffd2f8d723.jpg",
+      "coverUrl": "/images/cover_01c97dffd2f8d723.jpg",
+      "lowresUrl": "/images/lowres_01c97dffd2f8d723.jpg"
     },
     {
       "id": 9,
       "title": "Photo 9",
       "description": "Description 9",
-      "imageUrl": "/images/cover_9.jpg"
+      "thumbUrl": "/images/thumb_01c97dffd2f8d723.jpg",
+      "coverUrl": "/images/cover_01c97dffd2f8d723.jpg",
+      "lowresUrl": "/images/lowres_01c97dffd2f8d723.jpg"
     },
     {
       "id": 10,
       "title": "Photo 10",
       "description": "Description 10",
-      "imageUrl": "/images/cover_10.jpg"
+      "thumbUrl": "/images/thumb_01c97dffd2f8d723.jpg",
+      "coverUrl": "/images/cover_01c97dffd2f8d723.jpg",
+      "lowresUrl": "/images/lowres_01c97dffd2f8d723.jpg"
     },
     {
       "id": 11,
       "title": "Photo 11",
       "description": "Description 11",
-      "imageUrl": "/images/cover_11.jpg"
+      "thumbUrl": "/images/thumb_01c97dffd2f8d723.jpg",
+      "coverUrl": "/images/cover_01c97dffd2f8d723.jpg",
+      "lowresUrl": "/images/lowres_01c97dffd2f8d723.jpg"
     },
     {
       "id": 12,
       "title": "Photo 12",
       "description": "Description 12",
-      "imageUrl": "/images/cover_12.jpg"
+      "thumbUrl": "/images/thumb_01c97dffd2f8d723.jpg",
+      "coverUrl": "/images/cover_01c97dffd2f8d723.jpg",
+      "lowresUrl": "/images/lowres_01c97dffd2f8d723.jpg"
     }
   ]
 }
