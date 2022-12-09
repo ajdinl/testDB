@@ -239,62 +239,6 @@
       "thumbUrl": "/images/thumb/thumb_wulfert-30.jpeg",
       "coverUrl": "/images/cover/cover-wulfert-30.jpeg",
       "lowresUrl": "/images/lowres/lowres-wulfert-30.jpeg"
-    },
-    {
-      "id": 31,
-      "title": "Photo 9",
-      "description": "Description 9",
-      "thumbUrl": "/images/thumb/thumb_wulfert-31.jpeg",
-      "coverUrl": "/images/cover/cover-wulfert-31.jpeg",
-      "lowresUrl": "/images/lowres/lowres-wulfert-31.jpeg"
-    },
-    {
-      "id": 32,
-      "title": "Photo 10",
-      "description": "Description 10",
-      "thumbUrl": "/images/thumb/thumb_wulfert-32.jpeg",
-      "coverUrl": "/images/cover/cover-wulfert-32.jpeg",
-      "lowresUrl": "/images/lowres/lowres-wulfert-32.jpeg"
-    },
-    {
-      "id": 33,
-      "title": "Photo 11",
-      "description": "Description 11",
-      "thumbUrl": "/images/thumb/thumb_wulfert-33.jpeg",
-      "coverUrl": "/images/cover/cover-wulfert-33.jpeg",
-      "lowresUrl": "/images/lowres/lowres-wulfert-33.jpeg"
-    },
-    {
-      "id": 34,
-      "title": "Photo 12",
-      "description": "Description 12",
-      "thumbUrl": "/images/thumb/thumb_wulfert-34.jpeg",
-      "coverUrl": "/images/cover/cover-wulfert-34.jpeg",
-      "lowresUrl": "/images/lowres/lowres-wulfert-34.jpeg"
-    },
-    {
-      "id": 35,
-      "title": "Photo 1",
-      "description": "Description 1",
-      "thumbUrl": "/images/thumb/thumb_wulfert-35.jpeg",
-      "coverUrl": "/images/cover/cover-wulfert-35.jpeg",
-      "lowresUrl": "/images/lowres/lowres-wulfert-35.jpeg"
-    },
-    {
-      "id": 36,
-      "title": "Photo 3",
-      "description": "Description 3",
-      "thumbUrl": "/images/thumb/thumb_wulfert-36.jpeg",
-      "coverUrl": "/images/cover/cover-wulfert-36.jpeg",
-      "lowresUrl": "/images/lowres/lowres-wulfert-36.jpeg"
-    },
-    {
-      "id": 37,
-      "title": "Photo 4",
-      "description": "Description 4",
-      "thumbUrl": "/images/thumb/thumb_wulfert-37.jpeg",
-      "coverUrl": "/images/cover/cover-wulfert-37.jpeg",
-      "lowresUrl": "/images/lowres/lowres-wulfert-37.jpeg"
     }
   ]
 }
