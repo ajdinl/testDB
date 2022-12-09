@@ -295,54 +295,6 @@
       "thumbUrl": "/images/thumb/thumb_wulfert-37.jpeg",
       "coverUrl": "/images/cover/cover-wulfert-37.jpeg",
       "lowresUrl": "/images/lowres/lowres-wulfert-37.jpeg"
-    },
-    {
-      "id": 38,
-      "title": "Photo 5",
-      "description": "Description 5",
-      "thumbUrl": "/images/thumb/thumb_wulfert-38.jpeg",
-      "coverUrl": "/images/cover/cover-wulfert-38.jpeg",
-      "lowresUrl": "/images/lowres/lowres-wulfert-38.jpeg"
-    },
-    {
-      "id": 39,
-      "title": "Photo 6",
-      "description": "Description 6",
-      "thumbUrl": "/images/thumb/thumb_wulfert-39.jpeg",
-      "coverUrl": "/images/cover/cover-wulfert-39.jpeg",
-      "lowresUrl": "/images/lowres/lowres-wulfert-39.jpeg"
-    },
-    {
-      "id": 40,
-      "title": "Photo 7",
-      "description": "Description 7",
-      "thumbUrl": "/images/thumb/thumb_wulfert-40.jpeg",
-      "coverUrl": "/images/cover/cover-wulfert-40.jpeg",
-      "lowresUrl": "/images/lowres/lowres-wulfert-40.jpeg"
-    },
-    {
-      "id": 41,
-      "title": "Photo 8",
-      "description": "Description 8",
-      "thumbUrl": "/images/thumb/thumb_wulfert-41.jpeg",
-      "coverUrl": "/images/cover/cover-wulfert-41.jpeg",
-      "lowresUrl": "/images/lowres/lowres-wulfert-41.jpeg"
-    },
-    {
-      "id": 42,
-      "title": "Photo 9",
-      "description": "Description 9",
-      "thumbUrl": "/images/thumb/thumb_wulfert-42.jpeg",
-      "coverUrl": "/images/cover/cover-wulfert-42.jpeg",
-      "lowresUrl": "/images/lowres/lowres-wulfert-42.jpeg"
-    },
-    {
-      "id": 43,
-      "title": "Photo 10",
-      "description": "Description 10",
-      "thumbUrl": "/images/thumb/thumb_wulfert-43.jpeg",
-      "coverUrl": "/images/cover/cover-wulfert-43.jpeg",
-      "lowresUrl": "/images/lowres/lowres-wulfert-43.jpeg"
     }
   ]
 }
